@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @TANUSHMITHA-V-N
-- 👀 I’m Software Developer
+- 👋 Hi, I’m @TANUSHMITHA V N
 - 🌱 I’m currently pursuing B.Tech - Computer Science and Business Systems
 - 📫 How to reach me @tanushmithanagraj6@gmail.com
 
